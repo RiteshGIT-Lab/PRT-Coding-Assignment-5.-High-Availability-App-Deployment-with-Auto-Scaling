@@ -367,4 +367,6 @@ while true; do wget -q -O- http://nginx-service.autoscaling-app.svc.cluster.loca
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/52830768-9c9d-40fb-bb7a-50333ba6edf2" />
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/261ce7aa-9084-4e71-bf5a-4dc094879aca" />
 
+## Nginx runing 
+
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/483bf469-357a-4d75-9d4f-ab13aad32653" />
